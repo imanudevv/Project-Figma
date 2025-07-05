@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
 body {
 
   width: 1263px;
@@ -138,32 +139,217 @@ h3 {
   line-height: 30.6px;
   font-weight: 300;
   margin-left: 8%;
-  color:  #545471;
- 
+  color: #545471;
 
 
-}
-.fourth {
 
 }
-.jj{
+
+.fourth {}
+
+.jj {
   display: flex;
   padding-top: 18px;
   margin-left: 8%;
   gap: 14px;
-  
+
 }
-.box{
+
+.box {
   display: grid;
   margin-left: 60%;
   grid-template-rows: 1fr 1fr 1fr 1fr;
   padding-top: -500px;
 
 }
-.achievments {
+
+.achievements {
+  margin-top: 80px;
+  background: #F3F3F3;
+  padding-bottom: 50px;
+  width: 1520.8px;
+}
+
+.achievements .header3 {
+  margin-left: 200px;
+  height: 225px;
+  padding-top: 50px;
+}
+
+.achievements .header3 h4 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 1.8px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #397DA8;
+}
+
+.achievements .header3 h2 {
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 65px;
+  letter-spacing: -1.8px;
+  vertical-align: middle;
+  color: #1E2831;
+  float: left;
+  margin-top: 30px;
+}
+
+.achievements .header3 button {
+  width: 48px;
+  height: 48px;
+  border-radius: 500px;
+  background: transparent;
+  margin-left: 10px;
+  margin-top: 40px;
+  float: right;
+}
+
+.achievements .header3 .arrow {
+  margin-right: 200px;
+}
+
+.achievements .line {
+  margin-top: 100px;
+  margin-left: 200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 5px;
+}
+
+.achievements .line .para .cir {
+  border: 1px solid #2B2C3875;
+  max-width: 438px;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding-left: 40px;
+}
+
+.achievements .line .para span {
+  border-right: 1px solid black;
+  padding-bottom: 70px;
+  vertical-align: middle;
+  padding-left: 5px;
+  position: relative;
+  top: 26px;
+}
+
+.achievements .line .para h5 {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Inter' sans-serif;
+  line-height: 33px;
+  letter-spacing: 2px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.achievements .line .para .cir h4 {
+  font-weight: 500;
+  font-size: 23.73px;
+  line-height: 29.01px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #090808;
+  padding-top: 35px;
+  padding-left: 40px;
+}
+
+.achievements .line .para .cir i {
+  margin-right: 5px;
+  position: relative;
+  top: 4rem;
+  left: 5px;
+}
+
+.achievements .line .para .cir p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #211E1E;
+}
+
+.achievements .line .para .cir .ta {
+  padding-bottom: 70px;
+  padding-top: 30px;
+}
+
+.achievements .line .bo .cir {
+  background: #15212D;
+}
+
+.achievements .line .bo .cir h4 {
+  color: #FFFFFF;
+  text-align: left;
+}
+
+.achievements .line .bo .cir i {
+  color: black;
+}
+
+.achievements .line .bo .cir p {
+  color: #D9D9D9;
+  padding-top: 10px;
+  padding-bottom: 32px;
+}
+
+.header4 {
+  margin-left: 200px;
+
+}
+
+.Products {
+  margin-top: 80px;
+}
+
+.header4 h2 {
+  margin-left: 5px;
+  margin-top: 20px;
+}
+
+.header4 p {
+  font-size: 18px;
+  line-height: 30.8px;
+  color: #545471;
+  margin-left: 5px;
+  margin-top: 30px;
+}
+
+.imgs {
   display: flex;
-  width: auto;
-  height: 756px;
-  background-color: #F3F3F3;
-;
+  gap: 35px;
+}
+
+.product-img1 {
+  width: 550px;
+  height: 372.79px;
+  border-radius: 10px;
+}
+
+.product-img2 {
+  width: 550px;
+  height: 543.79px;
+  border-radius: 10px;
+
+}
+
+.product-img-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.img-caption {
+  bottom: 15px;
+  line-height: 33.6px;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: medium;
+  font-size: 24px;
+ bottom: -15px;
+
 }
