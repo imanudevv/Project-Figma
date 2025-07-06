@@ -474,3 +474,44 @@ align-items: center;
   margin-left: 200px;
 
 }
+.acc{
+  width: 1140px;
+height: 482px;
+border-radius: 10px;
+margin-left: 10%;
+
+
+
+}
+
+
+.ac {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+
+
+  
+}
+.frnds .cf h1  {
+  font-size: 20px;
+  line-height: 26.28px;
+  letter-spacing: 3.86px;
+  color: #397DA8;
+
+}
+.frnds{
+  margin-left: 200px;
+}
+.news {
+  margin-left: 200px;
+}
+.news h1 {
+   color: #397DA8;
+   font-size: 20px;
+  line-height: 26px;
+  letter-spacing: 2.16px;
+  font-weight: 500;
+  vertical-align: middle;
+}
