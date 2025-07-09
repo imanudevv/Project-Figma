@@ -515,3 +515,35 @@ margin-left: 10%;
   font-weight: 500;
   vertical-align: middle;
 }
+.blog{
+  display: flex;
+  gap: 20px;
+}
+.oooo{
+  width: 520px;
+  height: 257px;
+  margin-left: -34px;
+  margin-top: 60px;
+  border-radius: 10px;
+}
+.eee{
+  width: 517px;
+  height: 257px;
+  margin-top: 60px;
+  
+  border-radius: 10px;
+}
+.ttt{
+  width: 517px;
+  height: 257px;
+  border-radius: 10px;
+  margin-top: 60px;
+}
+.blog  .business h1{
+  font-size: 12px;
+  line-height: 22px;
+  font-weight: 400;
+  letter-spacing: 2.16px;
+  color:  #878787;
+;
+}
