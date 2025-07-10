@@ -520,8 +520,8 @@ margin-left: 10%;
   gap: 20px;
 }
 .oooo{
-  width: 520px;
-  height: 257px;
+  width: 420px;
+  height: 250px;
   margin-left: -34px;
   margin-top: 60px;
   border-radius: 10px;
@@ -545,5 +545,10 @@ margin-left: 10%;
   font-weight: 400;
   letter-spacing: 2.16px;
   color:  #878787;
-;
+
+
+}
+.flexx{
+  display: flex;
+  gap: 60px;
 }
