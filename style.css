@@ -345,50 +345,59 @@ h3 {
 
 .img-caption {
   display: block;
-  margin-top: 20px; /* Now this will work */
- 
+  margin-top: 20px;
+  /* Now this will work */
+
   font-size: 24px;
 }
-.product-img3  {
+
+.product-img3 {
   width: 550px;
   height: 372.79px;
   border-radius: 10px;
 }
-.imgs2{
+
+.imgs2 {
   display: flex;
   gap: 35px;
 }
-.product-img4{
+
+.product-img4 {
   width: 550px;
   height: 543.79px;
   border-radius: 10px;
   margin-top: 100px;
 }
-.imgs3{
+
+.imgs3 {
   display: flex;
   gap: 35px;
 }
+
 .product-img5 {
   width: 550px;
   height: 372.79px;
   border-radius: 10px;
   background-color: #00000033;
 }
-.product-img6{
- width: 550px;
-height: 543.79px;
-opacity: 1;
-border-radius: 10px;
+
+.product-img6 {
+  width: 550px;
+  height: 543.79px;
+  opacity: 1;
+  border-radius: 10px;
   background-color: #00000033;
   margin-top: 130px;
 }
-.test{
+
+.test {
   font-size: 20px;
   line-height: 34px;
   color: #397DA8;
- 
+
 
 }
+
 .client p {
   color: #397DA8;
   font-size: 18px;
@@ -397,7 +406,8 @@ border-radius: 10px;
   line-height: 30.6px;
 
 }
-.client{
+
+.client {
   margin-left: 200px;
 }
 
@@ -410,13 +420,16 @@ border-radius: 10px;
 .TESTIMONIALS .client {
   margin-left: 200px;
 }
-.card1{
+
+.card1 {
   width: 350px;
   height: 350px;
   background: #046FE20D;
-  margin-left: 0; /* or a small value like 20px for spacing */
+  margin-left: 0;
+  /* or a small value like 20px for spacing */
 }
-.card1 p{
+
+.card1 p {
   line-height: 30.6px;
   font-size: 18px;
   vertical-align: middle;
@@ -424,28 +437,31 @@ border-radius: 10px;
   margin-top: 50px;
   padding-top: 40px;
 }
+
 .c1 {
   width: 68px;
-height: 68px;
-opacity: 1;
-border-radius: 68px;
-padding-top: 25px;
-margin-left: 15px
-
+  height: 68px;
+  opacity: 1;
+  border-radius: 68px;
+  padding-top: 25px;
+  margin-left: 15px
 }
+
 .card1 h1 {
   color: #0B1826;
   font-size: 16px;
   line-height: 27.2px;
   font-weight: 500;
   vertical-align: middle;
-  
+
 }
-.dd{
+
+.dd {
   display: flex;
-padding: 10px;
-align-items: center; 
+  padding: 10px;
+  align-items: center;
 }
+
 .company-name {
   color: #484868;
   font-size: 16px;
@@ -464,21 +480,25 @@ align-items: center;
 .company-row {
   display: flex;
   align-items: center;
-  margin-left: 10px; /* match your company-name margin if needed */
+  margin-left: 10px;
+  /* match your company-name margin if needed */
   margin-top: 4px;
-  gap: 10px; /* space between text and stars */
+  gap: 10px;
+  /* space between text and stars */
 }
+
 .cc {
   display: flex;
   gap: 20px;
   margin-left: 200px;
 
 }
-.acc{
+
+.acc {
   width: 1140px;
-height: 482px;
-border-radius: 10px;
-margin-left: 10%;
+  height: 482px;
+  border-radius: 10px;
+  margin-left: 10%;
 
 
 
@@ -492,63 +512,97 @@ margin-left: 10%;
   margin-top: 100px;
 
 
-  
+
 }
-.frnds .cf h1  {
+
+.frnds .cf h1 {
   font-size: 20px;
   line-height: 26.28px;
   letter-spacing: 3.86px;
   color: #397DA8;
 
 }
-.frnds{
+
+.frnds {
   margin-left: 200px;
 }
+
 .news {
   margin-left: 200px;
 }
 .news h1 {
-   color: #397DA8;
-   font-size: 20px;
+  margin-top: 50px;
+}
+.news h1 {
+  color: #397DA8;
+  font-size: 20px;
   line-height: 26px;
   letter-spacing: 2.16px;
   font-weight: 500;
   vertical-align: middle;
+  margin-top: 80px;
 }
-.blog{
+
+.blog {
   display: flex;
   gap: 20px;
 }
-.oooo{
+
+.oooo {
   width: 420px;
   height: 250px;
   margin-left: -34px;
   margin-top: 60px;
   border-radius: 10px;
 }
-.eee{
+
+.eee {
   width: 517px;
   height: 257px;
   margin-top: 60px;
-  
+
   border-radius: 10px;
 }
-.ttt{
+
+.ttt {
   width: 517px;
   height: 257px;
   border-radius: 10px;
   margin-top: 60px;
 }
-.blog  .business h1{
+
+.blog .business h1 {
   font-size: 12px;
   line-height: 22px;
   font-weight: 400;
   letter-spacing: 2.16px;
-  color:  #878787;
+  color: #878787;
 
 
 }
-.flexx{
+
+.flexx {
   display: flex;
   gap: 60px;
+}
+
+.frnds .cf .Logos {
+  width: 1257px;
+  height: 500px;
+  top: 8257.82px;
+  opacity: 1;
+  margin-top: 80px;
+
+}
+.flexx .image-wrapper .business h1 {
+  color: #878787;
+ font-family: Poppins;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+letter-spacing: 2.16px;
+text-transform: uppercase;
+margin-top: -0px;
+}
+.Lorem {
 }
